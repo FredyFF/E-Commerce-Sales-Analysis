@@ -75,17 +75,3 @@ I had to remove all zero values from budget and revenue columns because they wou
 3. https://github.com/Irene-arch/Documenting_Example/blob/main/README.md
    
 
-😄
-
-💻
-
-|Heading1|Heading2|
-|--------|--------|
-|Content|Content2|
-|Python|SQL|
-
-`column_1`
-
-**bold**
-
-*italic*
